@@ -1,5 +1,4 @@
-# OdeToJoy
-# <main_melody> <vice_melody(disable in DOS mode)> <duration> <text>
+# OdeToJoy,by,ChenPi
 3 3 500
 3 3 500
 4 4 500
